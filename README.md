@@ -1,7 +1,7 @@
-# Hi, I'm Sevcan 👋
+# Hi, I'm Sevcan 🕵️
 
  * 🌍 I'm computer engineer and iOS developer.
- * 🔭 I’m currently working @Vestel and @25ProjeTech.
+ * 📍 I’m currently working @Vestel and @25ProjeTech.
  * 👯 I’m looking to collaborate on open-source projects!
  * 😄 Pronouns: she/her
  * ⚡ Fun fact: Heaviest object in the universe is Xcode Derived Data
