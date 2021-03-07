@@ -1,4 +1,4 @@
-# Hi, I'm Sevcan 🕵️
+# Hi, I'm Sevcan 🕵️ (Nn: Nacvesnaja)
 
  * 🌍 I'm computer engineer and iOS developer.
  * 📍 I’m currently working @Vestel and @25ProjeTech.
