@@ -3,8 +3,10 @@
  * 🌍 I'm computer engineer and iOS developer.
  * 📍 I’m currently working @Vestel and @25ProjeTech.
  * 👯 I’m looking to collaborate on open-source projects!
+ * 💜 Github Desktop 
  * 😄 Pronouns: she/her
  * ⚡ Fun fact: Heaviest object in the universe is Xcode Derived Data
+ 
 
 # Technologies
 <img src= "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"> <img src= "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"><img src= "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white">
