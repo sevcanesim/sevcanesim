@@ -1,7 +1,7 @@
 # Hi, I'm Sevcan 🕵️ (Nn: Nacvesnaja)
 
  * 🌍 I'm computer engineer and iOS developer.
- * 📍 I’m currently working @YemekSepeti.
+ * 📍 I’m currently working @DeliveryHero.
  * 👯 I’m looking to collaborate on open-source projects!
  * 💜 Github Desktop 
  * 😄 Pronouns: she/her
